@@ -1,0 +1,1 @@
+python workflow.py --launchpad-host gpu2.csc.tntech.edu --launchpad-port 7669 --working-directory ~/suffix-database/ --supports {10..90..10} --algorithms PrefixSpan CloSpan --  ~/suffix-database/838.suffix-database.spmf
